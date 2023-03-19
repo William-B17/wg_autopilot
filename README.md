@@ -8,7 +8,7 @@ This is a autopilot script for fivem that only works if you are in a correct veh
 
 ## Requirements
 
-- None :) (only esx)
+- None :)
 
 ## Installation
 
