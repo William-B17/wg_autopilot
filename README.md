@@ -1,10 +1,8 @@
 # wg_autopilot
+- This is a autopilot script for fivem that only works if you are in a correct vehicle 
 
-This script will only run properly on ESX
-
-# wg_autopilot
-
-This is a autopilot script for fivem that only works if you are in a correct vehicle 
+# framework
+- This script will only run properly on ESX
 
 ## Requirements
 
