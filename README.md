@@ -1,24 +1,21 @@
 # wg_autopilot
-This is a autopilot script for fivem that only works if you are in a correct vehicle 
+This is a autopilot script for fivem that only works if you are in a correct vehicle.
 
 ## framework
-This script will only run properly on ESX
+This script will only run properly on ESX.
 
 ## Requirements
-
+* ESX (look on youtube for an installation guide)
 * [mythic_notify](https://github.com/yordi-a/mythic_notify)
 
 ## Installation
 ```
-
 1. Add, Delete or Change models under `acceptedvehs` in `vs_client.lua`.
 2. Remember to add `start wg_autopilot` to your server.cfg.
 3. Install all requirements.
 ```
 
-
 ## ps
-
 I decided not to add a config.lua because the script is small.
 
 ## Author
