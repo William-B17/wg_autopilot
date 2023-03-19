@@ -16,6 +16,8 @@ This is a autopilot script for fivem that only works if you are in a correct veh
 
 2. Remember to add `start wg_autopilot` to your server.cfg.
 
+3. Install all requirements.
+
 
 ## ps
 
